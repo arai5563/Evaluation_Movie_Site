@@ -1,0 +1,19 @@
+.comp_div{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    padding: 7px;
+    margin: 8px;
+    border-radius: 10px;
+    position: relative;
+    background-color: rgb(199, 113, 113);
+
+}
+
+.btm_rating {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3px;
+    padding: 0 3px;   
+}
+
