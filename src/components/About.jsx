@@ -11,7 +11,7 @@ export const About = () => {
                 </div>
 
                 <div>
-                    <h2><strong>About</strong></h2>
+                    <h2><strong>About Movies App</strong></h2>
                 </div>
 
               
